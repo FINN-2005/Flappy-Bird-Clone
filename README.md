@@ -17,7 +17,7 @@ This project **requires** my custom Pygame framework, `pygame_template`, to func
 
 1.  **Clone the Flappy Bird repository:**
     ```bash
-    git clone Flappy-Bird
+    git clone https://github.com/FINN-2005/Flappy-Bird-Clone.git
     cd Flappy-Bird
     ```
     
@@ -25,7 +25,7 @@ This project **requires** my custom Pygame framework, `pygame_template`, to func
 
     * **Note:** As `pygame_template` is not available on PyPI, you will need to install it directly from my GitHub repository once it is uploaded. The command will look something like this:
         ```bash
-        pip install git+[https://github.com/](https://github.com/)FINN-2005/pygame_template.git
+        pip install git+https://github.com/FINN-2005/pygame_template.git
         ```
 
 ## How to Run
