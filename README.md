@@ -23,7 +23,7 @@ This project **requires** my custom Pygame framework, `pygame_template`, to func
     
 2.  **Install the `pygame_template` framework from GitHub:**
 
-    * **Note:** As `pygame_template` is not available on PyPI, you will need to install it directly from my GitHub repository once it is uploaded. The command will look something like this:
+    * **Note:** As `pygame_template` is not available on PyPI, you will need to install it directly from my GitHub repository:
         ```bash
         pip install git+https://github.com/FINN-2005/pygame_template.git
         ```
