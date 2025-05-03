@@ -1,1 +1,46 @@
-this a game
+# Flappy Bird
+
+## Overview
+
+This is a simple implementation of the classic Flappy Bird game. I created this project out of personal boredom and a desire to do something creative. As such, the assets (visuals) were sourced quickly from readily available resources.
+
+## Key Features
+
+* Basic Flappy Bird gameplay mechanics.
+* Utilizes Pygame for graphics and event handling.
+
+## Prerequisites
+
+This project **requires** my custom Pygame framework, `pygame_template`, to function correctly. **This framework is currently hosted on my personal GitHub and will need to be installed directly from there.**
+
+## Installation
+
+1.  **Clone the Flappy Bird repository:**
+    ```bash
+    git clone Flappy-Bird
+    cd Flappy-Bird
+    ```
+    
+2.  **Install the `pygame_template` framework from GitHub:**
+
+    * **Note:** As `pygame_template` is not available on PyPI, you will need to install it directly from my GitHub repository once it is uploaded. The command will look something like this:
+        ```bash
+        pip install git+[https://github.com/](https://github.com/)FINN-2005/pygame_template.git
+        ```
+
+## How to Run
+
+1.  Navigate to the project directory (if you haven't already):
+    ```bash
+    cd Flappy-Bird
+    ```
+
+2.  Run the game:
+    ```bash
+    python main.py
+    ```
+
+## Important Notes
+
+* The artwork in this project was gathered quickly and may not be original or consistently styled. This was a result of the project's spontaneous creation.
+* This project is built upon my custom `pygame_template` framework, which needs to be installed directly from my GitHub repository as outlined in the Installation section.
