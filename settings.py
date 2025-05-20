@@ -1,4 +1,4 @@
-from mine.pygame_template import *
+from pygame_template import *
 from os.path import join
 
 
